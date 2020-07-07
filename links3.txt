@@ -126,6 +126,3 @@ http://tfs.tsl.telus.com/tfs/telus/BT/_versionControl?path=%24%2FBT%2FITSuppt%2F
 http://tfs.tsl.telus.com/tfs/telus/BT/_versionControl?_a=contents&path=%24%2FBT%2FITSuppt%2FQA-SeleniumAutomation%2FScripts%2Fmain_dev%2FNGCM_Scripts_TI
 Custom Log levels :
 https://logging.apache.org/log4j/2.x/manual/customloglevels.html
-
-Git user id: sitanshu100
-pwd:Elegant@2506
